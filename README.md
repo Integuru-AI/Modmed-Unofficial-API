@@ -4,10 +4,10 @@ Unofficial Python integrations for Modmed.
 
 ## Integrations
 
-- `modmed_get_claim_detail.py` - `get_claim_detail` (2,719 live events).
-- `modmed_get_eligibility_original_response.py` - `get_eligibility_original_response` (1,891 live events).
-- `modmed_get_patient_active_policies.py` - `get_patient_active_policies` (1,875 live events).
-- `modmed_get_policy_details.py` - `get_policy_details` (1,872 live events).
+- `modmed_get_claim_detail.py` - `get_claim_detail`.
+- `modmed_get_eligibility_original_response.py` - `get_eligibility_original_response`.
+- `modmed_get_patient_active_policies.py` - `get_patient_active_policies`.
+- `modmed_get_policy_details.py` - `get_policy_details`.
 
 ## Usage
 
@@ -25,8 +25,8 @@ pip install -r requirements.txt
 
 ## Info
 
-This unofficial API is built by [Integuru.ai](https://integuru.ai/).
+This unofficial API is built by [Integuru](https://integuru.com).
 
-For custom requests or hosted authentication, contact richard@taiki.online.
+For custom requests or hosted authentication, contact richard@integuru.com or [schedule time with us](https://calendly.com/d/cqb8-d9x-nbf/integuru).
 
 See the [complete list of APIs by Integuru](https://github.com/Integuru-AI/APIs-by-Integuru).
