@@ -4,10 +4,10 @@ Unofficial Python integrations for Modmed.
 
 ## Integrations
 
-- `modmed_get_claim_detail.py` - `get_claim_detail` (2,719 live events).
-- `modmed_get_eligibility_original_response.py` - `get_eligibility_original_response` (1,891 live events).
-- `modmed_get_patient_active_policies.py` - `get_patient_active_policies` (1,875 live events).
-- `modmed_get_policy_details.py` - `get_policy_details` (1,872 live events).
+- `modmed_get_claim_detail.py` - `get_claim_detail`.
+- `modmed_get_eligibility_original_response.py` - `get_eligibility_original_response`.
+- `modmed_get_patient_active_policies.py` - `get_patient_active_policies`.
+- `modmed_get_policy_details.py` - `get_policy_details`.
 
 ## Usage
 
